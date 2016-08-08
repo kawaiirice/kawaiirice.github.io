@@ -1,5 +1,10 @@
-name: KawaiiRice
+# Site setttings
+name: Quinn Lert
+github_username: kawaiirice
+
+# Build settings
 markdown: kramdown
+theme: minima
 
-
+# Blog entry url
 permalink: /blog/:year/:month/:day/:title
